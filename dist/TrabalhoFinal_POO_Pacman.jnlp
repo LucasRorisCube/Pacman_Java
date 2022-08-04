@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="TrabalhoFinal_POO_Pacman.jnlp">
+  <information>
+    <title>TrabalhoFinal_POO_Pacman</title>
+    <vendor>lucas</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="TrabalhoFinal_POO_Pacman.jar" size="417904" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="InterfaceGrafica.TelaJogo"  name="TrabalhoFinal_POO_Pacman" />
+  <update check="always"/>
+</jnlp>
